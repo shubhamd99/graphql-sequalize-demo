@@ -25,3 +25,5 @@ npm run db:migrate
 
 * This will create a Docker instance called `gsd-db`, running MySQL v5.7.20, with the root password being `password`. It also creates a database called `gsd`, creates a user called `gsd-dev` (with password `password`), and assigns that user full permissions onto the `gsd` database.
 
+![alt grapql](https://i.imgur.com/TrUKdqE.png)
+
